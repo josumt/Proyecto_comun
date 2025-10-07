@@ -1,3 +1,3 @@
 # Proyecto comun
 
-Francisco
+Francisco e Iñigo
